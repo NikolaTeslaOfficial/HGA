@@ -1,0 +1,21 @@
+{
+    "name": "HGA",
+    "symbol": "HGA",
+    "uri": "D:/metadata.json",
+    "seller_fee_basis_points": 500,
+    "creators": [
+      {
+        "address": "GQouRCaAYE8wsMsTA67VkErEeRNZA2JhdCNR6o6RGemD",
+        "verified": true,
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "name": "xlegend_capital_logo.png",
+        "uri": "D:/xlegend.png",
+        "type": "image/png"
+      }
+    ]
+  }
+  
